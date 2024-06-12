@@ -1,0 +1,1001 @@
+Date,Sales,Product,Category,Region,Restaurant,Quantity
+2023-01-01,2582,Burgers,Food,Buruburu,Dominos,39
+2023-01-01,3554,Pizza,Food,Roysambu,Dominos,29
+2023-01-01,1130,Sandwich,Beverage,Buruburu,Steers,31
+2023-01-01,4095,Pizza,Food,Langata,Big Square,18
+2023-01-03,532,Sandwich,Beverage,Westlands,KFC,11
+2023-01-03,1322,Tea,Beverage,Langata,Kilimanjaro,42
+2023-01-04,2259,Soda,Food,Kasarani,Java,44
+2023-01-04,473,Burgers,Beverage,Thika,Steers,21
+2023-01-04,2682,Chips,Beverage,Thika,KFC,5
+2023-01-04,4568,Burgers,Food,Karen,Dominos,36
+2023-01-05,4769,Burgers,Beverage,Roysambu,Galitos,12
+2023-01-05,3487,Salad,Food,Roysambu,KFC,46
+2023-01-05,2244,Tea,Beverage,Thika,KFC,8
+2023-01-06,3821,Salad,Food,Embakasi,Sanford,43
+2023-01-07,2921,Pizza,Beverage,Ruiru,Kilimanjaro,15
+2023-01-07,4193,Chips,Food,Buruburu,Kilimanjaro,18
+2023-01-07,3999,Pizza,Food,Roysambu,Chicken Inn,41
+2023-01-08,2837,Soda,Beverage,Langata,Java,30
+2023-01-08,2768,Salad,Food,Roysambu,Java,1
+2023-01-08,1465,Burgers,Food,Ruiru,Dominos,25
+2023-01-10,1921,Burgers,Food,Embakasi,Kilimanjaro,29
+2023-01-10,3070,Coffee,Food,Westlands,Dominos,15
+2023-01-10,611,Sandwich,Beverage,Kibera,Galitos,21
+2023-01-11,1638,Coffee,Beverage,Roysambu,Big Square,18
+2023-01-12,2374,Tea,Beverage,Buruburu,Artcaffe,23
+2023-01-12,3804,Tea,Food,Roysambu,Dominos,35
+2023-01-12,1675,Pizza,Food,Karen,Artcaffe,12
+2023-01-12,2775,Soda,Food,Ruiru,Steers,31
+2023-01-12,1279,Pizza,Food,Kasarani,KFC,1
+2023-01-13,2569,Chips,Food,Buruburu,Kilimanjaro,30
+2023-01-13,2742,Salad,Beverage,Thika,Steers,32
+2023-01-14,1843,Burgers,Beverage,Thika,Kilimanjaro,44
+2023-01-14,4978,Soda,Food,Roysambu,Steers,28
+2023-01-14,901,Coffee,Beverage,Buruburu,Java,28
+2023-01-14,4107,Coffee,Food,Karen,Java,9
+2023-01-14,2537,Coffee,Beverage,Westlands,Big Square,44
+2023-01-16,1128,Burgers,Beverage,Embakasi,Steers,23
+2023-01-17,959,Salad,Beverage,Embakasi,Artcaffe,39
+2023-01-17,200,Chicken,Food,Thika,Steers,46
+2023-01-17,834,Ice Cream,Food,Thika,KFC,36
+2023-01-18,4789,Soda,Food,Roysambu,Artcaffe,26
+2023-01-20,872,Tea,Beverage,Ruiru,Artcaffe,10
+2023-01-20,4271,Tea,Beverage,Kasarani,Steers,21
+2023-01-21,3293,Burgers,Beverage,Ruiru,Kilimanjaro,49
+2023-01-21,4012,Chips,Food,Buruburu,KFC,32
+2023-01-21,4062,Pizza,Beverage,Kibera,Kilimanjaro,43
+2023-01-22,2768,Coffee,Food,Embakasi,Dominos,5
+2023-01-22,2466,Chips,Food,Embakasi,Dominos,30
+2023-01-23,4769,Burgers,Food,Kibera,Galitos,37
+2023-01-23,2088,Coffee,Beverage,Buruburu,KFC,23
+2023-01-23,1728,Soda,Beverage,Kibera,Steers,8
+2023-01-24,1774,Coffee,Food,Kasarani,Chicken Inn,11
+2023-01-25,4310,Soda,Beverage,Buruburu,Steers,2
+2023-01-25,472,Chicken,Food,Kibera,Dominos,17
+2023-01-25,3506,Pizza,Beverage,Karen,KFC,42
+2023-01-25,1835,Chips,Food,Embakasi,Artcaffe,46
+2023-01-26,152,Ice Cream,Beverage,Thika,Chicken Inn,49
+2023-01-26,4461,Sandwich,Food,Westlands,Kilimanjaro,46
+2023-01-26,231,Ice Cream,Beverage,Kasarani,Java,33
+2023-01-26,4212,Coffee,Food,Karen,Dominos,15
+2023-01-27,1764,Chicken,Beverage,Westlands,Steers,26
+2023-01-27,202,Tea,Beverage,Ruiru,Chicken Inn,36
+2023-01-28,3707,Chicken,Beverage,Roysambu,Kilimanjaro,25
+2023-01-28,4046,Ice Cream,Food,Buruburu,Artcaffe,17
+2023-01-29,4292,Ice Cream,Food,Thika,Java,2
+2023-01-29,4023,Burgers,Food,Embakasi,Chicken Inn,26
+2023-01-29,4950,Tea,Beverage,Ruiru,Dominos,15
+2023-01-30,2150,Sandwich,Food,Karen,Dominos,35
+2023-01-30,1834,Soda,Food,Karen,Sanford,20
+2023-01-30,1639,Salad,Food,Buruburu,Java,1
+2023-01-30,3963,Soda,Beverage,Roysambu,Steers,24
+2023-01-31,1047,Soda,Beverage,Ruiru,Java,4
+2023-01-31,512,Pizza,Beverage,Buruburu,Dominos,42
+2023-02-01,3242,Tea,Food,Westlands,Dominos,38
+2023-02-01,1610,Sandwich,Beverage,Kibera,Artcaffe,16
+2023-02-02,3842,Sandwich,Food,Roysambu,Galitos,29
+2023-02-02,2413,Pizza,Food,Westlands,Sanford,4
+2023-02-02,3205,Chicken,Beverage,Westlands,Galitos,29
+2023-02-02,4228,Chips,Beverage,Kasarani,Dominos,39
+2023-02-03,4929,Salad,Beverage,Karen,KFC,1
+2023-02-03,4748,Burgers,Beverage,Ruiru,Artcaffe,5
+2023-02-05,3699,Pizza,Beverage,Buruburu,Galitos,2
+2023-02-05,201,Sandwich,Beverage,Embakasi,Dominos,17
+2023-02-06,1781,Tea,Beverage,Roysambu,Galitos,32
+2023-02-06,2554,Soda,Beverage,Thika,Chicken Inn,33
+2023-02-07,239,Chips,Food,Roysambu,Sanford,29
+2023-02-08,919,Sandwich,Food,Kasarani,Java,12
+2023-02-08,4483,Pizza,Beverage,Roysambu,Steers,3
+2023-02-08,4063,Ice Cream,Food,Kibera,Steers,40
+2023-02-08,2137,Chicken,Beverage,Kasarani,Big Square,46
+2023-02-08,703,Sandwich,Food,Thika,Kilimanjaro,20
+2023-02-08,183,Chicken,Beverage,Westlands,Big Square,45
+2023-02-09,3900,Burgers,Beverage,Kibera,Steers,14
+2023-02-09,2216,Ice Cream,Food,Ruiru,Artcaffe,46
+2023-02-09,4393,Pizza,Food,Kasarani,Artcaffe,43
+2023-02-10,1535,Burgers,Beverage,Thika,Java,29
+2023-02-10,2305,Sandwich,Beverage,Buruburu,Galitos,7
+2023-02-10,3766,Chips,Food,Roysambu,KFC,36
+2023-02-11,2681,Chicken,Food,Karen,Sanford,26
+2023-02-11,4631,Sandwich,Beverage,Langata,Java,29
+2023-02-12,948,Coffee,Food,Karen,Kilimanjaro,24
+2023-02-12,1731,Coffee,Beverage,Ruiru,Sanford,6
+2023-02-12,1507,Coffee,Food,Ruiru,Sanford,41
+2023-02-12,3976,Tea,Beverage,Karen,Kilimanjaro,42
+2023-02-13,2661,Soda,Beverage,Kasarani,Steers,10
+2023-02-13,2199,Soda,Food,Langata,Galitos,48
+2023-02-13,2452,Tea,Food,Karen,Steers,16
+2023-02-13,2603,Pizza,Beverage,Kibera,Kilimanjaro,22
+2023-02-13,3934,Pizza,Beverage,Ruiru,Galitos,29
+2023-02-13,3977,Coffee,Beverage,Thika,KFC,35
+2023-02-14,2186,Coffee,Beverage,Buruburu,Steers,24
+2023-02-14,477,Chicken,Beverage,Kasarani,Java,30
+2023-02-16,1465,Salad,Beverage,Thika,KFC,32
+2023-02-16,3808,Tea,Beverage,Ruiru,Steers,26
+2023-02-17,3460,Tea,Beverage,Thika,Dominos,25
+2023-02-17,4700,Tea,Food,Ruiru,KFC,8
+2023-02-17,870,Burgers,Beverage,Kasarani,Steers,3
+2023-02-17,1360,Tea,Beverage,Roysambu,Big Square,4
+2023-02-17,2417,Coffee,Food,Karen,Sanford,6
+2023-02-18,2622,Ice Cream,Beverage,Thika,Galitos,36
+2023-02-18,1598,Salad,Food,Langata,Sanford,35
+2023-02-18,1401,Chicken,Food,Westlands,Chicken Inn,13
+2023-02-18,226,Ice Cream,Beverage,Thika,Galitos,8
+2023-02-18,206,Coffee,Beverage,Kibera,Dominos,36
+2023-02-18,350,Pizza,Food,Thika,Galitos,38
+2023-02-19,3358,Chips,Beverage,Thika,Java,30
+2023-02-20,2892,Salad,Beverage,Buruburu,Artcaffe,40
+2023-02-20,4597,Pizza,Beverage,Langata,Dominos,4
+2023-02-21,4694,Chicken,Food,Kibera,Java,30
+2023-02-21,507,Pizza,Beverage,Kasarani,Big Square,39
+2023-02-21,1941,Tea,Beverage,Westlands,Kilimanjaro,18
+2023-02-22,516,Chicken,Beverage,Langata,Java,34
+2023-02-23,179,Chips,Food,Kibera,Sanford,13
+2023-02-23,1266,Ice Cream,Beverage,Roysambu,Galitos,2
+2023-02-23,1011,Ice Cream,Food,Westlands,Sanford,33
+2023-02-24,4367,Sandwich,Food,Langata,Dominos,18
+2023-02-24,2561,Burgers,Beverage,Westlands,Chicken Inn,8
+2023-02-26,3501,Pizza,Beverage,Karen,KFC,37
+2023-02-27,1460,Ice Cream,Beverage,Ruiru,Kilimanjaro,22
+2023-02-28,3315,Burgers,Beverage,Kibera,Java,25
+2023-02-28,3149,Ice Cream,Beverage,Langata,Sanford,12
+2023-02-28,1343,Tea,Beverage,Kibera,Kilimanjaro,28
+2023-03-01,4540,Chicken,Beverage,Roysambu,Steers,37
+2023-03-01,4968,Chicken,Food,Kasarani,Steers,37
+2023-03-01,2306,Ice Cream,Beverage,Langata,Big Square,36
+2023-03-01,1180,Chips,Beverage,Westlands,Dominos,29
+2023-03-02,2498,Salad,Beverage,Roysambu,Artcaffe,32
+2023-03-03,3018,Soda,Food,Thika,Steers,37
+2023-03-03,1698,Coffee,Beverage,Westlands,Artcaffe,1
+2023-03-03,2606,Soda,Food,Buruburu,Galitos,15
+2023-03-03,1830,Chips,Beverage,Thika,Kilimanjaro,8
+2023-03-04,4810,Tea,Beverage,Thika,Dominos,43
+2023-03-04,439,Pizza,Food,Buruburu,Artcaffe,15
+2023-03-04,3899,Soda,Beverage,Kibera,KFC,32
+2023-03-05,4757,Soda,Beverage,Ruiru,Kilimanjaro,23
+2023-03-05,1425,Burgers,Beverage,Embakasi,Artcaffe,13
+2023-03-06,3499,Ice Cream,Food,Roysambu,Galitos,44
+2023-03-07,4854,Salad,Food,Karen,Galitos,29
+2023-03-07,4263,Chips,Beverage,Roysambu,Steers,30
+2023-03-08,4348,Salad,Beverage,Karen,Sanford,36
+2023-03-09,4845,Coffee,Food,Roysambu,Dominos,39
+2023-03-09,3444,Tea,Food,Buruburu,Kilimanjaro,48
+2023-03-10,384,Chicken,Food,Westlands,Big Square,33
+2023-03-10,1737,Sandwich,Beverage,Buruburu,Galitos,2
+2023-03-11,1318,Pizza,Beverage,Thika,Java,9
+2023-03-11,2107,Burgers,Beverage,Thika,Chicken Inn,9
+2023-03-12,2604,Tea,Food,Karen,Kilimanjaro,32
+2023-03-12,203,Soda,Beverage,Embakasi,Kilimanjaro,20
+2023-03-13,1352,Tea,Food,Langata,Java,31
+2023-03-13,3184,Coffee,Beverage,Karen,Java,33
+2023-03-14,313,Sandwich,Food,Roysambu,Artcaffe,10
+2023-03-14,3632,Chips,Food,Kibera,Kilimanjaro,7
+2023-03-14,4406,Chips,Food,Langata,Chicken Inn,26
+2023-03-14,3541,Ice Cream,Food,Thika,Artcaffe,26
+2023-03-14,393,Salad,Beverage,Buruburu,Dominos,10
+2023-03-15,1825,Pizza,Beverage,Ruiru,Sanford,20
+2023-03-15,1293,Ice Cream,Food,Roysambu,KFC,32
+2023-03-15,4889,Sandwich,Food,Kasarani,Artcaffe,41
+2023-03-16,2299,Burgers,Beverage,Ruiru,Big Square,42
+2023-03-16,977,Chips,Food,Kasarani,Artcaffe,49
+2023-03-16,2118,Soda,Beverage,Thika,Artcaffe,44
+2023-03-16,3600,Salad,Beverage,Kasarani,Kilimanjaro,31
+2023-03-16,4782,Sandwich,Food,Kasarani,Galitos,34
+2023-03-18,2981,Chips,Food,Langata,Kilimanjaro,23
+2023-03-18,1139,Tea,Beverage,Karen,Big Square,6
+2023-03-19,3484,Chips,Food,Langata,Galitos,42
+2023-03-19,3987,Salad,Food,Ruiru,Big Square,2
+2023-03-20,3311,Coffee,Food,Kibera,Chicken Inn,25
+2023-03-21,1157,Tea,Beverage,Thika,Big Square,11
+2023-03-21,2535,Coffee,Food,Westlands,Dominos,30
+2023-03-21,143,Coffee,Beverage,Roysambu,Dominos,31
+2023-03-22,2542,Ice Cream,Food,Kasarani,Big Square,24
+2023-03-22,1957,Soda,Food,Thika,Big Square,34
+2023-03-22,1985,Sandwich,Food,Karen,Kilimanjaro,6
+2023-03-22,1224,Soda,Food,Thika,Steers,10
+2023-03-23,4571,Burgers,Beverage,Embakasi,Steers,9
+2023-03-23,2892,Burgers,Food,Roysambu,Steers,34
+2023-03-23,1586,Chips,Beverage,Embakasi,Java,33
+2023-03-24,2486,Sandwich,Food,Kasarani,Steers,46
+2023-03-24,3433,Pizza,Beverage,Thika,Galitos,33
+2023-03-24,3649,Chips,Beverage,Langata,KFC,48
+2023-03-25,2615,Tea,Beverage,Ruiru,Sanford,28
+2023-03-25,951,Salad,Food,Roysambu,Chicken Inn,47
+2023-03-25,229,Sandwich,Beverage,Embakasi,KFC,22
+2023-03-25,3104,Soda,Food,Embakasi,Galitos,13
+2023-03-25,1300,Salad,Beverage,Embakasi,Steers,37
+2023-03-25,740,Soda,Food,Embakasi,Java,46
+2023-03-26,1116,Sandwich,Food,Karen,Big Square,44
+2023-03-26,3982,Sandwich,Food,Langata,Java,46
+2023-03-26,3499,Salad,Beverage,Kasarani,Sanford,41
+2023-03-28,897,Pizza,Food,Ruiru,Artcaffe,16
+2023-03-28,2696,Pizza,Beverage,Kasarani,Java,42
+2023-03-29,2783,Pizza,Food,Langata,Sanford,10
+2023-03-29,474,Ice Cream,Beverage,Roysambu,Galitos,27
+2023-03-29,3570,Chips,Food,Kasarani,Big Square,6
+2023-03-29,1278,Burgers,Beverage,Westlands,Artcaffe,14
+2023-03-29,4798,Chicken,Beverage,Kibera,Sanford,4
+2023-03-29,3567,Soda,Beverage,Ruiru,KFC,32
+2023-03-29,1814,Chicken,Beverage,Buruburu,Steers,2
+2023-03-30,462,Burgers,Beverage,Roysambu,KFC,16
+2023-03-30,126,Coffee,Beverage,Embakasi,Galitos,39
+2023-03-30,3710,Burgers,Beverage,Langata,KFC,30
+2023-03-30,2997,Soda,Beverage,Langata,Steers,19
+2023-03-30,799,Salad,Food,Kasarani,Steers,23
+2023-03-31,850,Burgers,Food,Roysambu,KFC,23
+2023-03-31,584,Pizza,Beverage,Langata,Kilimanjaro,31
+2023-04-01,191,Ice Cream,Beverage,Kasarani,Kilimanjaro,44
+2023-04-01,3172,Chips,Food,Thika,Sanford,14
+2023-04-01,1288,Chips,Beverage,Embakasi,Kilimanjaro,21
+2023-04-02,1920,Sandwich,Beverage,Roysambu,Chicken Inn,17
+2023-04-02,3014,Salad,Food,Ruiru,Kilimanjaro,1
+2023-04-02,797,Tea,Beverage,Embakasi,Kilimanjaro,11
+2023-04-03,2209,Coffee,Food,Kasarani,Big Square,1
+2023-04-03,2490,Soda,Food,Kasarani,Artcaffe,48
+2023-04-04,1646,Pizza,Beverage,Karen,Steers,3
+2023-04-04,1353,Burgers,Beverage,Roysambu,Dominos,37
+2023-04-04,2321,Coffee,Food,Ruiru,Chicken Inn,41
+2023-04-04,2351,Sandwich,Beverage,Westlands,Kilimanjaro,41
+2023-04-04,119,Ice Cream,Food,Westlands,Big Square,22
+2023-04-04,3837,Chicken,Food,Westlands,Big Square,48
+2023-04-05,1349,Salad,Beverage,Embakasi,Kilimanjaro,46
+2023-04-05,3997,Salad,Food,Karen,Steers,15
+2023-04-05,2227,Pizza,Food,Buruburu,KFC,6
+2023-04-05,301,Chicken,Beverage,Langata,Big Square,4
+2023-04-05,3406,Tea,Beverage,Langata,Big Square,13
+2023-04-05,4140,Soda,Beverage,Kasarani,Chicken Inn,2
+2023-04-05,4828,Pizza,Beverage,Embakasi,Big Square,11
+2023-04-05,1776,Sandwich,Beverage,Ruiru,Galitos,36
+2023-04-06,3393,Sandwich,Food,Kasarani,Galitos,19
+2023-04-06,336,Pizza,Beverage,Buruburu,Big Square,40
+2023-04-06,3742,Chips,Food,Buruburu,Kilimanjaro,32
+2023-04-07,3439,Coffee,Beverage,Ruiru,Java,9
+2023-04-07,850,Soda,Food,Ruiru,Chicken Inn,6
+2023-04-08,4216,Tea,Food,Langata,Dominos,45
+2023-04-08,555,Pizza,Food,Kibera,Dominos,26
+2023-04-09,2574,Salad,Food,Karen,KFC,39
+2023-04-09,2433,Ice Cream,Food,Thika,Kilimanjaro,28
+2023-04-09,3807,Chips,Food,Buruburu,Big Square,30
+2023-04-10,3578,Soda,Food,Kasarani,Galitos,31
+2023-04-10,1879,Chicken,Food,Kibera,Kilimanjaro,36
+2023-04-10,1391,Salad,Beverage,Kibera,Artcaffe,22
+2023-04-11,2412,Chips,Food,Roysambu,Sanford,28
+2023-04-11,1958,Soda,Food,Kibera,Java,27
+2023-04-11,3112,Chicken,Food,Kibera,Galitos,32
+2023-04-11,1830,Ice Cream,Food,Roysambu,Artcaffe,22
+2023-04-11,4538,Sandwich,Beverage,Embakasi,Dominos,39
+2023-04-11,3019,Tea,Food,Embakasi,Dominos,34
+2023-04-11,3515,Pizza,Beverage,Thika,Artcaffe,44
+2023-04-11,1358,Burgers,Food,Westlands,Java,42
+2023-04-12,155,Pizza,Food,Embakasi,Big Square,30
+2023-04-12,415,Burgers,Beverage,Thika,Kilimanjaro,25
+2023-04-12,3045,Salad,Food,Thika,Galitos,17
+2023-04-13,4429,Ice Cream,Beverage,Kibera,Kilimanjaro,40
+2023-04-13,1176,Salad,Food,Roysambu,Steers,10
+2023-04-13,1305,Chicken,Food,Ruiru,Artcaffe,38
+2023-04-13,298,Tea,Food,Roysambu,KFC,28
+2023-04-15,1980,Tea,Food,Westlands,Big Square,18
+2023-04-15,1858,Salad,Beverage,Kasarani,Steers,10
+2023-04-15,3093,Chips,Food,Westlands,Sanford,30
+2023-04-16,3959,Ice Cream,Beverage,Roysambu,Galitos,43
+2023-04-16,4950,Ice Cream,Food,Ruiru,KFC,10
+2023-04-16,1070,Salad,Food,Roysambu,Java,13
+2023-04-16,3646,Tea,Food,Kasarani,KFC,16
+2023-04-16,1779,Soda,Beverage,Karen,Dominos,37
+2023-04-16,1741,Salad,Food,Langata,Steers,6
+2023-04-17,4532,Coffee,Food,Kibera,Dominos,23
+2023-04-17,2456,Chicken,Food,Kasarani,KFC,5
+2023-04-18,1246,Soda,Beverage,Langata,KFC,30
+2023-04-19,4179,Salad,Beverage,Kasarani,Sanford,10
+2023-04-20,4532,Pizza,Beverage,Embakasi,Dominos,32
+2023-04-20,4452,Chips,Beverage,Embakasi,Dominos,6
+2023-04-20,2258,Coffee,Food,Langata,Java,9
+2023-04-21,3357,Burgers,Beverage,Buruburu,Steers,48
+2023-04-21,1922,Tea,Beverage,Thika,Big Square,48
+2023-04-21,737,Salad,Food,Thika,Galitos,11
+2023-04-22,2405,Tea,Food,Westlands,Kilimanjaro,16
+2023-04-22,3778,Chicken,Food,Westlands,Java,47
+2023-04-22,981,Soda,Beverage,Karen,Chicken Inn,42
+2023-04-22,3918,Coffee,Beverage,Westlands,Chicken Inn,25
+2023-04-22,2164,Soda,Food,Kibera,KFC,45
+2023-04-23,4259,Pizza,Beverage,Ruiru,KFC,49
+2023-04-23,4259,Sandwich,Beverage,Kibera,Chicken Inn,35
+2023-04-23,2952,Salad,Food,Ruiru,Steers,33
+2023-04-24,1726,Soda,Beverage,Thika,Dominos,14
+2023-04-24,427,Chips,Food,Kasarani,Big Square,43
+2023-04-25,4067,Coffee,Food,Westlands,Java,5
+2023-04-25,1777,Ice Cream,Beverage,Kasarani,Dominos,32
+2023-04-25,762,Pizza,Food,Ruiru,Artcaffe,16
+2023-04-25,2754,Coffee,Food,Embakasi,Dominos,8
+2023-04-26,2779,Ice Cream,Beverage,Buruburu,Kilimanjaro,37
+2023-04-26,2357,Salad,Food,Embakasi,Steers,23
+2023-04-26,2064,Sandwich,Food,Buruburu,Java,40
+2023-04-26,3998,Soda,Food,Kibera,Kilimanjaro,48
+2023-04-26,4311,Chips,Beverage,Kibera,Dominos,31
+2023-04-27,4088,Sandwich,Food,Westlands,Galitos,4
+2023-04-27,4466,Chips,Beverage,Buruburu,Chicken Inn,33
+2023-04-27,3851,Coffee,Beverage,Kibera,Kilimanjaro,34
+2023-04-27,4224,Chips,Food,Karen,Java,10
+2023-04-28,2885,Ice Cream,Beverage,Thika,Galitos,30
+2023-04-28,1699,Chips,Beverage,Karen,Kilimanjaro,18
+2023-04-28,3289,Salad,Beverage,Kasarani,Dominos,6
+2023-04-29,3409,Ice Cream,Beverage,Embakasi,KFC,25
+2023-04-29,3050,Pizza,Beverage,Kasarani,Kilimanjaro,41
+2023-04-29,3963,Chips,Food,Kasarani,Big Square,36
+2023-04-30,4339,Soda,Beverage,Karen,Steers,36
+2023-04-30,3915,Salad,Food,Karen,Dominos,44
+2023-04-30,463,Chips,Food,Ruiru,Galitos,48
+2023-04-30,4066,Salad,Food,Kibera,Chicken Inn,44
+2023-05-01,2510,Soda,Food,Ruiru,Steers,46
+2023-05-01,4637,Coffee,Beverage,Buruburu,Steers,24
+2023-05-01,4571,Chips,Food,Roysambu,Chicken Inn,3
+2023-05-02,3594,Sandwich,Beverage,Langata,Big Square,42
+2023-05-02,3712,Chips,Beverage,Buruburu,Sanford,22
+2023-05-03,955,Chicken,Food,Buruburu,Steers,21
+2023-05-04,271,Salad,Beverage,Embakasi,Dominos,46
+2023-05-04,2230,Soda,Food,Ruiru,Sanford,43
+2023-05-04,4646,Ice Cream,Food,Roysambu,Chicken Inn,15
+2023-05-04,592,Tea,Beverage,Kasarani,Galitos,13
+2023-05-05,3804,Chicken,Beverage,Langata,Java,34
+2023-05-05,2291,Chicken,Food,Westlands,Sanford,38
+2023-05-06,2865,Chicken,Food,Westlands,Kilimanjaro,36
+2023-05-06,3509,Pizza,Food,Embakasi,Big Square,4
+2023-05-06,3413,Burgers,Beverage,Embakasi,Chicken Inn,45
+2023-05-06,3815,Chips,Beverage,Ruiru,Steers,2
+2023-05-06,4066,Chicken,Food,Kibera,Big Square,20
+2023-05-07,2391,Soda,Food,Ruiru,Java,25
+2023-05-08,178,Sandwich,Beverage,Buruburu,Steers,32
+2023-05-08,2693,Pizza,Food,Ruiru,KFC,49
+2023-05-08,2397,Chips,Beverage,Langata,Chicken Inn,32
+2023-05-08,1422,Chicken,Food,Karen,Artcaffe,37
+2023-05-09,1755,Tea,Beverage,Kibera,Artcaffe,16
+2023-05-09,424,Burgers,Beverage,Karen,Chicken Inn,26
+2023-05-09,4336,Ice Cream,Food,Karen,Kilimanjaro,34
+2023-05-09,915,Ice Cream,Beverage,Ruiru,KFC,35
+2023-05-09,4082,Salad,Food,Kasarani,Galitos,25
+2023-05-09,762,Chicken,Beverage,Thika,Galitos,33
+2023-05-10,160,Salad,Food,Thika,KFC,28
+2023-05-10,2389,Ice Cream,Beverage,Embakasi,Steers,49
+2023-05-11,4667,Coffee,Food,Kibera,Chicken Inn,41
+2023-05-12,1328,Pizza,Beverage,Ruiru,Chicken Inn,12
+2023-05-12,3472,Salad,Beverage,Embakasi,Kilimanjaro,48
+2023-05-12,3675,Sandwich,Food,Westlands,Big Square,2
+2023-05-12,1391,Chips,Beverage,Kasarani,Galitos,26
+2023-05-12,3290,Burgers,Beverage,Buruburu,Kilimanjaro,17
+2023-05-13,3298,Ice Cream,Food,Karen,Steers,7
+2023-05-13,1909,Chicken,Food,Ruiru,Big Square,32
+2023-05-14,1646,Burgers,Food,Embakasi,Galitos,13
+2023-05-14,1606,Sandwich,Beverage,Buruburu,Steers,48
+2023-05-14,2956,Tea,Food,Buruburu,KFC,37
+2023-05-14,2003,Chicken,Food,Langata,Chicken Inn,44
+2023-05-15,4675,Pizza,Beverage,Langata,Big Square,43
+2023-05-15,3358,Chicken,Food,Thika,Artcaffe,35
+2023-05-16,4535,Chips,Beverage,Roysambu,Dominos,12
+2023-05-16,855,Soda,Food,Karen,Sanford,16
+2023-05-16,4959,Pizza,Food,Karen,Dominos,45
+2023-05-16,4550,Salad,Beverage,Ruiru,Chicken Inn,47
+2023-05-16,2193,Chips,Food,Langata,Chicken Inn,28
+2023-05-17,2318,Chips,Food,Embakasi,Kilimanjaro,18
+2023-05-17,2993,Coffee,Food,Buruburu,Chicken Inn,1
+2023-05-17,1592,Coffee,Beverage,Westlands,Kilimanjaro,32
+2023-05-17,1126,Chicken,Beverage,Thika,Big Square,21
+2023-05-18,3265,Chicken,Beverage,Karen,Galitos,28
+2023-05-19,3909,Pizza,Beverage,Ruiru,Galitos,30
+2023-05-19,4567,Tea,Food,Kibera,Big Square,41
+2023-05-19,1507,Tea,Beverage,Ruiru,KFC,45
+2023-05-19,2066,Salad,Beverage,Ruiru,Kilimanjaro,20
+2023-05-19,3318,Ice Cream,Beverage,Buruburu,Artcaffe,43
+2023-05-20,4596,Pizza,Food,Langata,Steers,9
+2023-05-20,4180,Ice Cream,Beverage,Kibera,Chicken Inn,39
+2023-05-21,910,Coffee,Food,Kibera,Artcaffe,28
+2023-05-22,3194,Sandwich,Food,Ruiru,Chicken Inn,22
+2023-05-24,1665,Salad,Food,Thika,Chicken Inn,39
+2023-05-24,1713,Burgers,Food,Langata,Steers,34
+2023-05-25,1363,Pizza,Food,Kasarani,Galitos,1
+2023-05-26,3803,Chips,Food,Embakasi,Java,46
+2023-05-26,3177,Chicken,Beverage,Kibera,Java,26
+2023-05-26,470,Salad,Beverage,Langata,Sanford,27
+2023-05-27,613,Ice Cream,Beverage,Langata,Java,13
+2023-05-27,3374,Chicken,Food,Westlands,Sanford,28
+2023-05-27,1691,Burgers,Food,Thika,Galitos,2
+2023-05-28,4945,Sandwich,Beverage,Westlands,KFC,27
+2023-05-28,3170,Ice Cream,Beverage,Kasarani,Java,27
+2023-05-28,2612,Coffee,Food,Embakasi,Artcaffe,31
+2023-05-29,4842,Soda,Food,Embakasi,KFC,35
+2023-05-29,610,Ice Cream,Beverage,Ruiru,Sanford,28
+2023-05-29,2733,Salad,Food,Thika,Chicken Inn,42
+2023-05-29,4242,Burgers,Food,Kasarani,Galitos,22
+2023-05-29,744,Chicken,Beverage,Embakasi,Artcaffe,37
+2023-05-29,1433,Pizza,Beverage,Roysambu,Java,8
+2023-05-30,1618,Ice Cream,Food,Embakasi,Dominos,48
+2023-05-30,2937,Soda,Beverage,Kibera,Dominos,3
+2023-05-30,4427,Chicken,Beverage,Roysambu,Artcaffe,21
+2023-05-31,4122,Coffee,Food,Thika,Chicken Inn,32
+2023-05-31,2604,Salad,Beverage,Thika,Sanford,32
+2023-05-31,984,Salad,Food,Westlands,Chicken Inn,32
+2023-06-01,3348,Salad,Food,Buruburu,Big Square,14
+2023-06-01,2846,Ice Cream,Food,Ruiru,KFC,14
+2023-06-01,2353,Chips,Beverage,Kibera,Galitos,41
+2023-06-01,3239,Ice Cream,Beverage,Roysambu,Dominos,4
+2023-06-02,1688,Chicken,Food,Roysambu,Artcaffe,9
+2023-06-02,764,Pizza,Beverage,Langata,Big Square,16
+2023-06-02,473,Coffee,Beverage,Westlands,Kilimanjaro,12
+2023-06-02,4258,Chips,Beverage,Ruiru,Artcaffe,10
+2023-06-02,4351,Pizza,Beverage,Langata,Chicken Inn,18
+2023-06-03,2508,Ice Cream,Food,Westlands,Java,22
+2023-06-03,278,Ice Cream,Beverage,Karen,Kilimanjaro,18
+2023-06-04,3901,Chips,Food,Westlands,Steers,38
+2023-06-04,3115,Soda,Beverage,Buruburu,Kilimanjaro,34
+2023-06-04,1996,Burgers,Food,Buruburu,Dominos,43
+2023-06-05,2448,Ice Cream,Food,Thika,Kilimanjaro,11
+2023-06-05,3093,Salad,Beverage,Kibera,Kilimanjaro,43
+2023-06-06,1060,Coffee,Food,Ruiru,KFC,28
+2023-06-06,3966,Coffee,Food,Westlands,Kilimanjaro,35
+2023-06-07,410,Tea,Beverage,Buruburu,Chicken Inn,47
+2023-06-07,4671,Coffee,Food,Karen,Java,1
+2023-06-07,2029,Burgers,Food,Langata,Java,31
+2023-06-07,3097,Pizza,Food,Karen,Steers,16
+2023-06-08,2722,Chips,Food,Buruburu,Artcaffe,12
+2023-06-08,4374,Chicken,Food,Embakasi,Steers,32
+2023-06-08,1895,Ice Cream,Food,Kasarani,Dominos,15
+2023-06-09,694,Ice Cream,Beverage,Ruiru,Galitos,38
+2023-06-10,4261,Tea,Food,Buruburu,Galitos,26
+2023-06-11,4720,Tea,Beverage,Kibera,Steers,11
+2023-06-11,4251,Pizza,Food,Kibera,Sanford,17
+2023-06-11,2492,Tea,Food,Embakasi,Steers,25
+2023-06-12,2398,Tea,Food,Karen,KFC,48
+2023-06-13,1110,Tea,Food,Kibera,Steers,11
+2023-06-13,460,Coffee,Food,Thika,Sanford,26
+2023-06-13,731,Tea,Food,Buruburu,Artcaffe,22
+2023-06-13,1444,Soda,Food,Ruiru,Kilimanjaro,39
+2023-06-13,1230,Sandwich,Beverage,Karen,Big Square,33
+2023-06-14,4308,Sandwich,Beverage,Karen,Chicken Inn,41
+2023-06-14,3744,Soda,Beverage,Westlands,Chicken Inn,41
+2023-06-14,4885,Tea,Food,Ruiru,Dominos,1
+2023-06-14,308,Tea,Food,Buruburu,Dominos,17
+2023-06-15,3349,Tea,Beverage,Thika,Chicken Inn,22
+2023-06-15,4144,Chips,Beverage,Kasarani,Artcaffe,43
+2023-06-15,4125,Burgers,Beverage,Kibera,Java,27
+2023-06-15,3187,Ice Cream,Beverage,Langata,Big Square,16
+2023-06-16,4875,Chicken,Beverage,Buruburu,Big Square,6
+2023-06-16,4011,Tea,Food,Ruiru,Sanford,45
+2023-06-17,2302,Coffee,Food,Karen,Chicken Inn,43
+2023-06-17,1639,Pizza,Beverage,Karen,Sanford,3
+2023-06-17,4353,Burgers,Beverage,Kibera,Kilimanjaro,19
+2023-06-18,467,Chicken,Food,Embakasi,Kilimanjaro,13
+2023-06-18,3867,Ice Cream,Food,Buruburu,Steers,37
+2023-06-19,462,Tea,Food,Kibera,Big Square,10
+2023-06-19,2421,Salad,Food,Roysambu,KFC,17
+2023-06-19,4019,Soda,Beverage,Kasarani,Big Square,8
+2023-06-19,1816,Coffee,Food,Embakasi,Java,4
+2023-06-20,175,Pizza,Beverage,Karen,Steers,1
+2023-06-20,2441,Sandwich,Food,Karen,Big Square,23
+2023-06-21,3725,Salad,Beverage,Karen,Kilimanjaro,2
+2023-06-21,3068,Chips,Food,Westlands,Chicken Inn,33
+2023-06-21,1445,Soda,Food,Buruburu,Chicken Inn,17
+2023-06-22,4935,Burgers,Beverage,Langata,Java,2
+2023-06-22,2655,Ice Cream,Beverage,Buruburu,Artcaffe,12
+2023-06-23,4914,Chicken,Beverage,Kasarani,Java,20
+2023-06-23,154,Burgers,Food,Embakasi,Kilimanjaro,49
+2023-06-24,1224,Coffee,Beverage,Karen,Sanford,33
+2023-06-24,2624,Salad,Beverage,Roysambu,Chicken Inn,17
+2023-06-24,1407,Pizza,Food,Embakasi,Artcaffe,15
+2023-06-24,4616,Sandwich,Food,Kibera,Kilimanjaro,24
+2023-06-24,1435,Coffee,Beverage,Karen,Java,47
+2023-06-24,2777,Pizza,Food,Kasarani,Kilimanjaro,49
+2023-06-25,2727,Chips,Food,Thika,Chicken Inn,34
+2023-06-26,2120,Chicken,Food,Embakasi,Big Square,34
+2023-06-27,1405,Ice Cream,Food,Langata,Big Square,11
+2023-06-27,4838,Chips,Beverage,Thika,Steers,11
+2023-06-28,355,Sandwich,Food,Langata,Steers,33
+2023-06-28,3509,Chips,Beverage,Kibera,Steers,7
+2023-06-28,3852,Burgers,Food,Kibera,Java,20
+2023-06-28,3677,Burgers,Food,Buruburu,KFC,48
+2023-06-29,2762,Tea,Beverage,Thika,Galitos,2
+2023-06-29,495,Burgers,Beverage,Embakasi,Java,10
+2023-06-29,3702,Tea,Food,Embakasi,Java,3
+2023-06-29,1717,Tea,Beverage,Kasarani,Big Square,27
+2023-06-30,1612,Chips,Beverage,Kibera,Kilimanjaro,17
+2023-06-30,2145,Coffee,Food,Kasarani,Sanford,28
+2023-06-30,1233,Pizza,Beverage,Kasarani,Big Square,45
+2023-06-30,1577,Ice Cream,Food,Ruiru,Galitos,6
+2023-06-30,821,Chips,Food,Kasarani,KFC,4
+2023-07-01,370,Soda,Food,Ruiru,Dominos,37
+2023-07-02,3253,Sandwich,Beverage,Kibera,Chicken Inn,1
+2023-07-02,1264,Chips,Food,Kasarani,Big Square,1
+2023-07-02,3722,Sandwich,Beverage,Kasarani,Dominos,41
+2023-07-02,2001,Burgers,Food,Ruiru,Kilimanjaro,34
+2023-07-02,923,Chips,Food,Ruiru,Galitos,46
+2023-07-03,695,Soda,Food,Langata,Sanford,46
+2023-07-03,817,Salad,Food,Thika,Dominos,45
+2023-07-03,4757,Soda,Beverage,Embakasi,Chicken Inn,43
+2023-07-04,1921,Coffee,Food,Kibera,Sanford,21
+2023-07-04,4693,Soda,Food,Roysambu,Kilimanjaro,23
+2023-07-04,265,Pizza,Food,Karen,Dominos,49
+2023-07-04,2156,Soda,Beverage,Langata,Java,18
+2023-07-05,2676,Soda,Beverage,Westlands,Big Square,30
+2023-07-05,2780,Coffee,Beverage,Kibera,Galitos,36
+2023-07-05,4920,Burgers,Beverage,Embakasi,Sanford,28
+2023-07-06,1015,Ice Cream,Beverage,Buruburu,Java,13
+2023-07-06,3688,Chicken,Beverage,Langata,Chicken Inn,35
+2023-07-07,1501,Ice Cream,Beverage,Langata,Galitos,21
+2023-07-07,1397,Burgers,Beverage,Roysambu,Galitos,19
+2023-07-08,933,Sandwich,Beverage,Kasarani,Java,40
+2023-07-08,1279,Burgers,Beverage,Thika,Steers,9
+2023-07-09,2038,Salad,Food,Embakasi,Chicken Inn,15
+2023-07-09,1958,Chicken,Food,Westlands,Kilimanjaro,31
+2023-07-10,4644,Salad,Beverage,Langata,Sanford,20
+2023-07-10,2333,Tea,Food,Buruburu,Big Square,37
+2023-07-11,3268,Chips,Food,Embakasi,Kilimanjaro,23
+2023-07-12,4157,Coffee,Beverage,Roysambu,Dominos,14
+2023-07-13,548,Coffee,Food,Buruburu,Java,31
+2023-07-13,547,Pizza,Beverage,Embakasi,Dominos,36
+2023-07-13,2900,Chicken,Food,Thika,Artcaffe,45
+2023-07-14,2754,Burgers,Beverage,Buruburu,KFC,43
+2023-07-14,3881,Soda,Food,Kibera,Sanford,44
+2023-07-15,1343,Chicken,Beverage,Ruiru,Artcaffe,24
+2023-07-15,4001,Chips,Beverage,Kibera,Chicken Inn,32
+2023-07-15,265,Soda,Food,Thika,Big Square,33
+2023-07-15,3980,Burgers,Food,Embakasi,KFC,41
+2023-07-15,1606,Soda,Food,Langata,Artcaffe,25
+2023-07-16,1317,Chips,Food,Westlands,Dominos,41
+2023-07-17,4702,Tea,Food,Ruiru,Sanford,48
+2023-07-17,4858,Sandwich,Food,Kasarani,Galitos,29
+2023-07-17,2338,Tea,Beverage,Kibera,KFC,49
+2023-07-17,4456,Tea,Food,Karen,Big Square,36
+2023-07-17,3347,Chips,Food,Langata,Kilimanjaro,19
+2023-07-17,1899,Ice Cream,Food,Embakasi,Big Square,22
+2023-07-17,3316,Burgers,Food,Karen,Big Square,18
+2023-07-17,3439,Ice Cream,Food,Ruiru,Java,38
+2023-07-17,1714,Sandwich,Beverage,Thika,Sanford,7
+2023-07-17,2295,Sandwich,Food,Roysambu,Big Square,41
+2023-07-18,4144,Chips,Food,Ruiru,Galitos,26
+2023-07-18,1684,Chicken,Food,Langata,Galitos,38
+2023-07-19,4551,Salad,Beverage,Roysambu,Kilimanjaro,26
+2023-07-19,2901,Chicken,Food,Westlands,Sanford,14
+2023-07-19,2245,Burgers,Food,Westlands,Chicken Inn,36
+2023-07-20,2449,Chicken,Food,Westlands,Sanford,17
+2023-07-21,711,Tea,Food,Karen,Kilimanjaro,35
+2023-07-21,2737,Pizza,Beverage,Westlands,Chicken Inn,5
+2023-07-21,3259,Chicken,Beverage,Embakasi,KFC,39
+2023-07-21,3882,Sandwich,Food,Ruiru,Galitos,48
+2023-07-22,908,Burgers,Food,Ruiru,Kilimanjaro,47
+2023-07-23,2128,Ice Cream,Beverage,Roysambu,Galitos,15
+2023-07-23,4509,Burgers,Food,Kasarani,KFC,31
+2023-07-24,869,Ice Cream,Beverage,Embakasi,Steers,1
+2023-07-25,2426,Burgers,Food,Embakasi,Steers,15
+2023-07-25,3239,Chicken,Beverage,Thika,Galitos,20
+2023-07-26,2420,Chips,Food,Westlands,Sanford,31
+2023-07-26,2799,Tea,Food,Karen,Artcaffe,7
+2023-07-26,1637,Burgers,Beverage,Langata,Kilimanjaro,22
+2023-07-27,859,Burgers,Beverage,Ruiru,Sanford,9
+2023-07-27,2197,Chicken,Food,Kibera,Dominos,16
+2023-07-27,3400,Burgers,Food,Embakasi,Artcaffe,17
+2023-07-27,4963,Ice Cream,Beverage,Buruburu,Java,39
+2023-07-27,685,Burgers,Beverage,Embakasi,Kilimanjaro,8
+2023-07-27,2256,Coffee,Beverage,Kasarani,Galitos,24
+2023-07-28,592,Burgers,Beverage,Roysambu,Galitos,18
+2023-07-28,1547,Sandwich,Food,Karen,KFC,28
+2023-07-28,930,Sandwich,Food,Thika,Kilimanjaro,6
+2023-07-28,2421,Tea,Food,Langata,Big Square,9
+2023-07-29,1679,Chips,Food,Embakasi,Dominos,40
+2023-07-29,2774,Sandwich,Food,Ruiru,Kilimanjaro,8
+2023-07-29,3643,Chicken,Food,Karen,Big Square,45
+2023-07-29,4638,Sandwich,Food,Westlands,Java,18
+2023-07-29,4956,Sandwich,Beverage,Kasarani,Galitos,14
+2023-07-29,124,Sandwich,Food,Kibera,Artcaffe,14
+2023-07-29,840,Ice Cream,Food,Langata,Artcaffe,37
+2023-07-30,4224,Pizza,Beverage,Langata,Artcaffe,38
+2023-07-31,3012,Soda,Beverage,Karen,KFC,20
+2023-07-31,1202,Ice Cream,Beverage,Westlands,Big Square,13
+2023-07-31,4343,Burgers,Beverage,Kasarani,Java,34
+2023-08-01,1406,Chips,Food,Karen,Chicken Inn,2
+2023-08-02,3820,Pizza,Food,Roysambu,KFC,20
+2023-08-02,1484,Coffee,Food,Ruiru,Big Square,27
+2023-08-03,4454,Pizza,Beverage,Embakasi,Dominos,13
+2023-08-03,3913,Sandwich,Food,Thika,Kilimanjaro,49
+2023-08-04,1494,Soda,Beverage,Langata,Sanford,28
+2023-08-04,2648,Ice Cream,Food,Ruiru,Java,18
+2023-08-05,231,Burgers,Beverage,Kibera,Kilimanjaro,35
+2023-08-05,1694,Burgers,Beverage,Thika,Kilimanjaro,13
+2023-08-05,1704,Coffee,Food,Thika,Java,34
+2023-08-06,4790,Sandwich,Food,Embakasi,Steers,20
+2023-08-06,2281,Ice Cream,Beverage,Westlands,Dominos,38
+2023-08-06,1634,Chips,Beverage,Buruburu,Galitos,27
+2023-08-07,4970,Soda,Beverage,Karen,Artcaffe,18
+2023-08-07,1966,Chicken,Food,Kasarani,Galitos,9
+2023-08-07,2614,Coffee,Food,Westlands,Chicken Inn,22
+2023-08-07,1665,Coffee,Beverage,Westlands,Artcaffe,39
+2023-08-08,3981,Soda,Food,Kasarani,Sanford,17
+2023-08-08,3567,Salad,Beverage,Roysambu,Artcaffe,12
+2023-08-08,181,Ice Cream,Food,Kasarani,Dominos,24
+2023-08-09,651,Burgers,Food,Westlands,KFC,6
+2023-08-09,1543,Pizza,Food,Embakasi,Java,40
+2023-08-10,3899,Sandwich,Food,Kasarani,Chicken Inn,12
+2023-08-10,3894,Chicken,Food,Kibera,Sanford,35
+2023-08-11,4988,Soda,Beverage,Westlands,Chicken Inn,42
+2023-08-11,409,Pizza,Beverage,Thika,Steers,19
+2023-08-11,1759,Chips,Food,Buruburu,KFC,39
+2023-08-12,3073,Salad,Beverage,Thika,Galitos,33
+2023-08-12,3851,Ice Cream,Food,Buruburu,Dominos,5
+2023-08-13,1481,Chips,Beverage,Kasarani,Big Square,11
+2023-08-13,3523,Salad,Beverage,Ruiru,Galitos,25
+2023-08-14,4149,Chips,Beverage,Karen,Kilimanjaro,6
+2023-08-14,1748,Soda,Beverage,Karen,Chicken Inn,42
+2023-08-14,2068,Coffee,Beverage,Embakasi,Chicken Inn,24
+2023-08-14,2121,Soda,Food,Kasarani,Java,12
+2023-08-15,4443,Coffee,Beverage,Kasarani,Dominos,8
+2023-08-15,4390,Chicken,Food,Karen,Dominos,14
+2023-08-15,1592,Salad,Food,Langata,Kilimanjaro,4
+2023-08-15,534,Soda,Beverage,Thika,Kilimanjaro,4
+2023-08-15,2270,Chicken,Beverage,Roysambu,Artcaffe,38
+2023-08-15,1984,Pizza,Beverage,Thika,Steers,5
+2023-08-16,2795,Tea,Food,Westlands,Steers,18
+2023-08-16,3278,Pizza,Beverage,Embakasi,Dominos,15
+2023-08-16,4306,Salad,Beverage,Langata,Steers,17
+2023-08-16,437,Sandwich,Beverage,Karen,Dominos,35
+2023-08-16,2346,Coffee,Beverage,Ruiru,Dominos,39
+2023-08-17,2128,Pizza,Beverage,Ruiru,Galitos,48
+2023-08-17,1128,Tea,Food,Thika,Big Square,1
+2023-08-17,2647,Sandwich,Food,Kibera,Big Square,27
+2023-08-18,1901,Ice Cream,Food,Westlands,Dominos,43
+2023-08-18,2345,Burgers,Food,Westlands,Dominos,47
+2023-08-18,3311,Burgers,Beverage,Kasarani,KFC,10
+2023-08-18,3559,Soda,Beverage,Langata,Java,36
+2023-08-19,2956,Chicken,Food,Westlands,Steers,5
+2023-08-19,1500,Tea,Food,Embakasi,Sanford,18
+2023-08-21,3967,Burgers,Food,Westlands,Kilimanjaro,37
+2023-08-22,1711,Chips,Food,Ruiru,Dominos,23
+2023-08-22,1416,Sandwich,Beverage,Roysambu,Kilimanjaro,7
+2023-08-22,2541,Sandwich,Beverage,Buruburu,Dominos,19
+2023-08-23,2161,Salad,Food,Buruburu,Java,26
+2023-08-23,227,Ice Cream,Beverage,Kibera,Sanford,44
+2023-08-24,2228,Soda,Food,Embakasi,Kilimanjaro,19
+2023-08-24,3834,Chicken,Food,Thika,Chicken Inn,31
+2023-08-25,4120,Sandwich,Food,Langata,Chicken Inn,46
+2023-08-26,4560,Sandwich,Food,Roysambu,Kilimanjaro,19
+2023-08-26,487,Chips,Beverage,Westlands,Steers,27
+2023-08-26,2524,Tea,Food,Kibera,Galitos,18
+2023-08-26,4169,Ice Cream,Food,Thika,Sanford,25
+2023-08-27,343,Coffee,Beverage,Roysambu,Galitos,26
+2023-08-27,2173,Tea,Beverage,Thika,Chicken Inn,35
+2023-08-27,3606,Sandwich,Food,Roysambu,KFC,28
+2023-08-27,1224,Soda,Beverage,Kibera,Dominos,25
+2023-08-28,4753,Ice Cream,Food,Embakasi,Dominos,3
+2023-08-28,3378,Ice Cream,Food,Embakasi,Galitos,18
+2023-08-30,3827,Soda,Beverage,Langata,Java,36
+2023-08-30,1643,Coffee,Beverage,Westlands,Chicken Inn,24
+2023-08-30,2563,Tea,Beverage,Roysambu,Artcaffe,45
+2023-08-31,3223,Chips,Beverage,Buruburu,Chicken Inn,36
+2023-08-31,3117,Sandwich,Beverage,Thika,Big Square,11
+2023-08-31,379,Pizza,Beverage,Karen,Dominos,37
+2023-09-01,3897,Chicken,Food,Buruburu,KFC,4
+2023-09-01,1483,Pizza,Beverage,Buruburu,Big Square,14
+2023-09-01,4380,Chicken,Beverage,Embakasi,Steers,27
+2023-09-02,2476,Soda,Food,Buruburu,Big Square,28
+2023-09-02,2967,Tea,Beverage,Buruburu,Steers,42
+2023-09-02,2186,Salad,Food,Ruiru,Big Square,4
+2023-09-03,3699,Pizza,Food,Karen,Steers,32
+2023-09-04,3041,Tea,Food,Roysambu,Sanford,1
+2023-09-04,228,Burgers,Food,Kibera,Galitos,37
+2023-09-04,4151,Burgers,Beverage,Kibera,Artcaffe,48
+2023-09-06,312,Burgers,Food,Buruburu,Sanford,36
+2023-09-06,284,Soda,Beverage,Buruburu,Chicken Inn,34
+2023-09-07,1125,Salad,Beverage,Langata,KFC,25
+2023-09-08,605,Soda,Beverage,Buruburu,Galitos,25
+2023-09-08,2182,Tea,Food,Langata,Dominos,6
+2023-09-09,4554,Tea,Food,Kibera,Dominos,12
+2023-09-09,4199,Ice Cream,Food,Roysambu,Sanford,47
+2023-09-10,2209,Ice Cream,Beverage,Roysambu,Steers,23
+2023-09-11,4427,Tea,Beverage,Thika,Steers,32
+2023-09-11,367,Tea,Beverage,Thika,Sanford,23
+2023-09-12,1086,Soda,Food,Ruiru,Chicken Inn,44
+2023-09-12,339,Pizza,Food,Thika,Steers,2
+2023-09-13,1559,Salad,Beverage,Ruiru,Kilimanjaro,31
+2023-09-13,4662,Chicken,Food,Langata,Chicken Inn,15
+2023-09-13,4243,Coffee,Food,Langata,Galitos,49
+2023-09-14,2825,Ice Cream,Food,Kibera,Sanford,40
+2023-09-14,4234,Chips,Food,Kibera,Big Square,31
+2023-09-14,1286,Soda,Beverage,Ruiru,Dominos,1
+2023-09-14,1456,Sandwich,Food,Langata,Dominos,38
+2023-09-15,3906,Ice Cream,Food,Langata,Java,31
+2023-09-15,2945,Salad,Beverage,Kasarani,Galitos,3
+2023-09-16,2656,Ice Cream,Beverage,Roysambu,Artcaffe,45
+2023-09-16,3816,Tea,Beverage,Karen,Sanford,25
+2023-09-16,3604,Salad,Food,Roysambu,Sanford,45
+2023-09-16,4149,Chips,Food,Buruburu,Kilimanjaro,19
+2023-09-16,1423,Chips,Beverage,Kasarani,Sanford,15
+2023-09-16,3592,Ice Cream,Beverage,Roysambu,Kilimanjaro,44
+2023-09-17,4040,Soda,Beverage,Roysambu,Galitos,13
+2023-09-17,2268,Burgers,Beverage,Karen,KFC,29
+2023-09-17,189,Coffee,Beverage,Roysambu,Dominos,43
+2023-09-17,2183,Burgers,Beverage,Westlands,Kilimanjaro,29
+2023-09-18,987,Chicken,Food,Langata,Big Square,27
+2023-09-18,3674,Pizza,Beverage,Westlands,Kilimanjaro,10
+2023-09-18,3669,Chicken,Beverage,Ruiru,Sanford,10
+2023-09-19,2697,Tea,Beverage,Buruburu,Dominos,20
+2023-09-19,1281,Ice Cream,Beverage,Ruiru,Kilimanjaro,46
+2023-09-19,3759,Ice Cream,Beverage,Embakasi,KFC,18
+2023-09-20,1386,Pizza,Beverage,Karen,Chicken Inn,13
+2023-09-20,173,Pizza,Food,Thika,Galitos,36
+2023-09-20,2364,Pizza,Food,Roysambu,Kilimanjaro,26
+2023-09-20,1750,Sandwich,Food,Westlands,Big Square,16
+2023-09-21,2513,Salad,Beverage,Karen,Kilimanjaro,42
+2023-09-21,4784,Chips,Food,Langata,Galitos,48
+2023-09-22,1360,Soda,Food,Westlands,Kilimanjaro,47
+2023-09-22,1786,Tea,Food,Kibera,Chicken Inn,5
+2023-09-22,2308,Tea,Beverage,Langata,Kilimanjaro,41
+2023-09-23,4084,Tea,Beverage,Embakasi,KFC,11
+2023-09-23,4034,Pizza,Beverage,Langata,Galitos,7
+2023-09-23,3429,Burgers,Beverage,Buruburu,Steers,5
+2023-09-23,362,Tea,Food,Langata,Dominos,26
+2023-09-23,2416,Burgers,Beverage,Langata,Kilimanjaro,30
+2023-09-23,3456,Chips,Beverage,Kibera,Chicken Inn,7
+2023-09-24,1247,Sandwich,Beverage,Karen,Artcaffe,47
+2023-09-24,2087,Soda,Food,Westlands,Dominos,46
+2023-09-24,3147,Coffee,Food,Buruburu,Big Square,24
+2023-09-25,156,Soda,Food,Karen,Artcaffe,5
+2023-09-25,3566,Chicken,Beverage,Kasarani,Chicken Inn,27
+2023-09-25,2196,Chicken,Food,Westlands,Artcaffe,13
+2023-09-25,4662,Tea,Beverage,Ruiru,Big Square,24
+2023-09-26,507,Chicken,Beverage,Westlands,Galitos,7
+2023-09-27,537,Sandwich,Beverage,Thika,Steers,15
+2023-09-27,3056,Sandwich,Food,Langata,Sanford,32
+2023-09-28,948,Ice Cream,Beverage,Embakasi,Java,6
+2023-09-28,343,Burgers,Beverage,Ruiru,Artcaffe,49
+2023-09-28,680,Sandwich,Beverage,Kasarani,Dominos,32
+2023-09-29,612,Chips,Food,Roysambu,Dominos,32
+2023-09-29,3872,Coffee,Beverage,Kibera,Java,9
+2023-09-30,2059,Ice Cream,Beverage,Langata,Artcaffe,6
+2023-10-01,3568,Ice Cream,Food,Langata,KFC,43
+2023-10-01,3583,Ice Cream,Beverage,Kibera,Java,8
+2023-10-02,4058,Burgers,Beverage,Roysambu,Steers,7
+2023-10-02,1735,Coffee,Beverage,Westlands,Steers,6
+2023-10-02,4680,Sandwich,Beverage,Buruburu,Chicken Inn,12
+2023-10-02,2728,Tea,Beverage,Karen,Dominos,34
+2023-10-02,2236,Coffee,Food,Embakasi,Chicken Inn,22
+2023-10-02,3986,Coffee,Food,Roysambu,Sanford,19
+2023-10-02,3727,Chicken,Beverage,Kibera,Kilimanjaro,13
+2023-10-03,1881,Tea,Food,Westlands,Galitos,42
+2023-10-03,3149,Ice Cream,Beverage,Roysambu,Steers,40
+2023-10-04,419,Pizza,Beverage,Kasarani,KFC,32
+2023-10-04,2962,Coffee,Food,Karen,Artcaffe,34
+2023-10-04,1927,Chips,Beverage,Kasarani,Steers,12
+2023-10-05,3951,Salad,Food,Thika,Artcaffe,30
+2023-10-06,1154,Tea,Food,Kasarani,KFC,23
+2023-10-06,350,Chicken,Food,Langata,Artcaffe,2
+2023-10-07,1692,Burgers,Beverage,Langata,Steers,39
+2023-10-07,1357,Tea,Food,Kibera,Kilimanjaro,23
+2023-10-07,4736,Sandwich,Food,Roysambu,Galitos,17
+2023-10-08,286,Chips,Food,Embakasi,KFC,49
+2023-10-08,839,Coffee,Beverage,Langata,KFC,48
+2023-10-09,623,Soda,Food,Karen,Chicken Inn,23
+2023-10-09,2885,Sandwich,Beverage,Westlands,Chicken Inn,24
+2023-10-10,1440,Ice Cream,Food,Kasarani,Dominos,21
+2023-10-10,255,Coffee,Food,Kasarani,Galitos,10
+2023-10-10,895,Chicken,Food,Ruiru,Kilimanjaro,12
+2023-10-12,4380,Pizza,Beverage,Ruiru,Big Square,35
+2023-10-12,1254,Tea,Beverage,Buruburu,Dominos,3
+2023-10-12,4231,Sandwich,Beverage,Buruburu,Kilimanjaro,1
+2023-10-12,1207,Ice Cream,Food,Buruburu,Big Square,49
+2023-10-13,890,Coffee,Food,Kasarani,Java,13
+2023-10-13,958,Tea,Beverage,Ruiru,Dominos,28
+2023-10-14,2115,Chicken,Food,Karen,Big Square,4
+2023-10-14,2402,Sandwich,Food,Westlands,Kilimanjaro,12
+2023-10-14,1976,Salad,Beverage,Thika,Chicken Inn,28
+2023-10-15,135,Sandwich,Beverage,Roysambu,Artcaffe,33
+2023-10-15,3447,Chicken,Beverage,Ruiru,KFC,34
+2023-10-16,1045,Salad,Beverage,Embakasi,Chicken Inn,44
+2023-10-16,922,Chicken,Food,Karen,Big Square,42
+2023-10-16,756,Coffee,Beverage,Thika,Kilimanjaro,42
+2023-10-16,2071,Sandwich,Beverage,Roysambu,Sanford,10
+2023-10-17,211,Coffee,Beverage,Langata,KFC,2
+2023-10-17,4368,Chips,Beverage,Roysambu,Kilimanjaro,48
+2023-10-18,1540,Sandwich,Beverage,Kibera,Galitos,5
+2023-10-18,1439,Sandwich,Beverage,Roysambu,Galitos,17
+2023-10-18,4745,Burgers,Food,Karen,Galitos,15
+2023-10-18,642,Salad,Food,Kasarani,Kilimanjaro,43
+2023-10-18,4123,Chips,Food,Kasarani,Big Square,25
+2023-10-18,1412,Ice Cream,Beverage,Buruburu,Galitos,34
+2023-10-18,3957,Burgers,Food,Karen,Kilimanjaro,13
+2023-10-19,1253,Chicken,Food,Kibera,Kilimanjaro,20
+2023-10-19,4356,Tea,Beverage,Kasarani,Java,38
+2023-10-19,3935,Ice Cream,Food,Roysambu,Galitos,6
+2023-10-19,914,Sandwich,Food,Westlands,Big Square,45
+2023-10-20,4922,Tea,Food,Westlands,Kilimanjaro,3
+2023-10-20,3162,Chicken,Food,Kasarani,Galitos,24
+2023-10-20,4181,Pizza,Beverage,Roysambu,Kilimanjaro,35
+2023-10-20,623,Soda,Beverage,Embakasi,KFC,43
+2023-10-20,2756,Chicken,Beverage,Westlands,Dominos,36
+2023-10-20,4312,Chips,Beverage,Thika,Galitos,3
+2023-10-21,2227,Soda,Food,Karen,Artcaffe,6
+2023-10-21,1326,Sandwich,Food,Langata,Big Square,38
+2023-10-22,4664,Sandwich,Food,Kasarani,Java,29
+2023-10-22,2522,Chicken,Beverage,Ruiru,KFC,45
+2023-10-23,3413,Burgers,Beverage,Kasarani,KFC,5
+2023-10-23,1281,Soda,Food,Thika,Big Square,44
+2023-10-24,3477,Tea,Beverage,Thika,Artcaffe,2
+2023-10-24,3896,Soda,Beverage,Roysambu,Artcaffe,15
+2023-10-25,644,Burgers,Beverage,Embakasi,Kilimanjaro,43
+2023-10-25,4395,Sandwich,Food,Langata,Java,3
+2023-10-25,3104,Sandwich,Food,Embakasi,Artcaffe,5
+2023-10-26,3795,Salad,Beverage,Roysambu,Java,49
+2023-10-27,4569,Chicken,Food,Westlands,Galitos,26
+2023-10-28,3078,Ice Cream,Food,Buruburu,Steers,45
+2023-10-28,1057,Burgers,Beverage,Thika,Kilimanjaro,47
+2023-10-29,3442,Salad,Food,Ruiru,Big Square,32
+2023-10-29,2516,Burgers,Beverage,Karen,Kilimanjaro,28
+2023-10-29,4362,Salad,Beverage,Westlands,Steers,7
+2023-10-30,4779,Soda,Food,Roysambu,Kilimanjaro,41
+2023-10-30,401,Chips,Food,Ruiru,Sanford,10
+2023-10-30,4750,Sandwich,Food,Ruiru,Java,16
+2023-10-31,1197,Ice Cream,Food,Westlands,Chicken Inn,37
+2023-11-01,473,Sandwich,Beverage,Langata,Galitos,31
+2023-11-01,2135,Coffee,Food,Embakasi,Java,32
+2023-11-01,2388,Soda,Food,Buruburu,Artcaffe,45
+2023-11-02,516,Ice Cream,Food,Thika,Kilimanjaro,22
+2023-11-02,1876,Tea,Beverage,Karen,Chicken Inn,6
+2023-11-03,2081,Chips,Food,Kibera,Artcaffe,40
+2023-11-04,2971,Chicken,Food,Langata,KFC,23
+2023-11-04,1329,Burgers,Food,Westlands,Galitos,42
+2023-11-04,4537,Pizza,Food,Roysambu,KFC,6
+2023-11-04,545,Pizza,Beverage,Buruburu,Steers,4
+2023-11-04,3713,Coffee,Beverage,Embakasi,Java,2
+2023-11-05,4377,Chicken,Beverage,Westlands,Galitos,22
+2023-11-06,2476,Chicken,Food,Ruiru,Chicken Inn,1
+2023-11-06,885,Tea,Beverage,Thika,Chicken Inn,28
+2023-11-06,2880,Chips,Beverage,Embakasi,Kilimanjaro,26
+2023-11-07,3927,Salad,Beverage,Westlands,Artcaffe,29
+2023-11-08,1902,Soda,Food,Langata,Kilimanjaro,29
+2023-11-08,1997,Pizza,Beverage,Karen,Java,34
+2023-11-09,1785,Soda,Food,Roysambu,Sanford,33
+2023-11-10,4109,Sandwich,Beverage,Ruiru,Java,23
+2023-11-10,2395,Chips,Beverage,Thika,Dominos,11
+2023-11-11,1298,Soda,Beverage,Embakasi,KFC,37
+2023-11-11,3865,Pizza,Food,Buruburu,Sanford,24
+2023-11-11,3770,Burgers,Food,Thika,Steers,22
+2023-11-11,4735,Chips,Beverage,Kasarani,Dominos,1
+2023-11-12,4591,Coffee,Beverage,Buruburu,Steers,18
+2023-11-12,1311,Salad,Food,Roysambu,Galitos,4
+2023-11-13,4214,Pizza,Beverage,Langata,Steers,9
+2023-11-14,4299,Chicken,Beverage,Buruburu,Kilimanjaro,40
+2023-11-15,4910,Chips,Food,Roysambu,Galitos,6
+2023-11-15,3434,Salad,Beverage,Kibera,KFC,27
+2023-11-15,2933,Pizza,Beverage,Thika,KFC,14
+2023-11-17,1501,Salad,Beverage,Kasarani,Big Square,36
+2023-11-17,4083,Ice Cream,Beverage,Ruiru,Galitos,10
+2023-11-18,4299,Coffee,Food,Westlands,Galitos,46
+2023-11-18,435,Chicken,Food,Kasarani,Sanford,41
+2023-11-18,1831,Pizza,Food,Kasarani,Java,29
+2023-11-18,3496,Burgers,Beverage,Ruiru,Sanford,5
+2023-11-19,3981,Chips,Food,Thika,Steers,6
+2023-11-19,4933,Tea,Food,Karen,Sanford,27
+2023-11-19,1275,Chicken,Beverage,Kasarani,Sanford,18
+2023-11-20,4993,Salad,Beverage,Buruburu,Galitos,28
+2023-11-20,4172,Ice Cream,Food,Ruiru,Java,18
+2023-11-20,3408,Sandwich,Beverage,Westlands,Galitos,35
+2023-11-20,3969,Chicken,Food,Roysambu,Galitos,26
+2023-11-20,4769,Coffee,Food,Langata,Sanford,41
+2023-11-21,1761,Soda,Beverage,Kibera,Sanford,13
+2023-11-21,1566,Salad,Food,Embakasi,Chicken Inn,3
+2023-11-21,2495,Ice Cream,Food,Ruiru,Kilimanjaro,32
+2023-11-21,2974,Burgers,Food,Langata,Steers,7
+2023-11-22,1327,Sandwich,Beverage,Embakasi,Chicken Inn,36
+2023-11-22,250,Sandwich,Food,Karen,Java,16
+2023-11-23,1538,Burgers,Beverage,Kibera,Sanford,41
+2023-11-23,4624,Tea,Food,Thika,Galitos,8
+2023-11-23,2920,Salad,Beverage,Ruiru,Sanford,36
+2023-11-24,160,Coffee,Beverage,Ruiru,Galitos,8
+2023-11-24,2892,Burgers,Food,Embakasi,Steers,41
+2023-11-24,3896,Salad,Food,Karen,Steers,26
+2023-11-24,1641,Coffee,Beverage,Karen,Kilimanjaro,34
+2023-11-25,4943,Tea,Beverage,Ruiru,KFC,15
+2023-11-25,1164,Burgers,Food,Buruburu,Artcaffe,48
+2023-11-26,779,Sandwich,Food,Roysambu,Big Square,49
+2023-11-26,1535,Ice Cream,Beverage,Ruiru,Artcaffe,7
+2023-11-27,3744,Sandwich,Food,Langata,Dominos,4
+2023-11-27,265,Soda,Food,Westlands,Sanford,19
+2023-11-28,3657,Sandwich,Food,Embakasi,Sanford,42
+2023-11-28,2614,Salad,Beverage,Kibera,Dominos,12
+2023-11-29,2213,Pizza,Food,Westlands,Java,16
+2023-11-29,2683,Pizza,Food,Thika,Chicken Inn,16
+2023-11-29,4728,Ice Cream,Beverage,Roysambu,Big Square,46
+2023-11-29,4292,Coffee,Beverage,Roysambu,Galitos,46
+2023-11-30,3087,Pizza,Food,Ruiru,Sanford,22
+2023-11-30,2620,Tea,Food,Westlands,Sanford,15
+2023-12-01,162,Burgers,Food,Roysambu,Java,48
+2023-12-01,1723,Burgers,Food,Kasarani,Steers,26
+2023-12-01,897,Burgers,Food,Ruiru,Galitos,25
+2023-12-01,3105,Chicken,Food,Ruiru,Dominos,6
+2023-12-02,3027,Chips,Food,Langata,Steers,16
+2023-12-02,2833,Pizza,Food,Ruiru,Galitos,14
+2023-12-02,2460,Soda,Beverage,Kibera,KFC,40
+2023-12-03,2009,Chips,Food,Kibera,Dominos,15
+2023-12-03,4645,Soda,Food,Embakasi,KFC,49
+2023-12-04,4635,Soda,Food,Kibera,Sanford,2
+2023-12-04,2883,Sandwich,Food,Karen,Sanford,10
+2023-12-04,1727,Pizza,Food,Kibera,Sanford,6
+2023-12-05,3978,Soda,Food,Langata,KFC,46
+2023-12-05,933,Pizza,Food,Kasarani,Galitos,30
+2023-12-05,1882,Sandwich,Beverage,Thika,Kilimanjaro,33
+2023-12-06,2325,Sandwich,Food,Thika,Java,27
+2023-12-06,3892,Ice Cream,Beverage,Embakasi,Galitos,7
+2023-12-06,1856,Chips,Food,Langata,Galitos,5
+2023-12-06,3285,Chips,Beverage,Ruiru,Artcaffe,15
+2023-12-07,2371,Chicken,Beverage,Karen,Sanford,27
+2023-12-07,2798,Ice Cream,Beverage,Kibera,Sanford,29
+2023-12-07,2463,Tea,Beverage,Thika,Java,5
+2023-12-07,3761,Ice Cream,Food,Kasarani,Dominos,40
+2023-12-08,3416,Chicken,Food,Embakasi,Steers,42
+2023-12-08,2491,Chips,Food,Kasarani,Dominos,31
+2023-12-08,4277,Soda,Food,Langata,Galitos,21
+2023-12-08,4463,Pizza,Food,Roysambu,Kilimanjaro,24
+2023-12-09,807,Sandwich,Beverage,Karen,Java,33
+2023-12-10,2460,Tea,Food,Langata,Java,1
+2023-12-10,2320,Ice Cream,Food,Roysambu,Steers,26
+2023-12-10,1516,Pizza,Food,Karen,Kilimanjaro,38
+2023-12-10,189,Chips,Food,Langata,Chicken Inn,2
+2023-12-10,3103,Burgers,Beverage,Ruiru,Artcaffe,29
+2023-12-11,3123,Coffee,Food,Embakasi,Dominos,34
+2023-12-11,1048,Coffee,Beverage,Buruburu,Dominos,49
+2023-12-11,412,Tea,Beverage,Kibera,Sanford,17
+2023-12-11,2638,Chicken,Beverage,Westlands,Galitos,21
+2023-12-12,1100,Salad,Beverage,Thika,Big Square,43
+2023-12-12,3350,Sandwich,Beverage,Thika,Steers,41
+2023-12-12,1026,Pizza,Food,Kibera,Galitos,27
+2023-12-12,569,Pizza,Food,Buruburu,Galitos,11
+2023-12-12,4190,Pizza,Food,Thika,Kilimanjaro,20
+2023-12-13,531,Chips,Food,Karen,Kilimanjaro,47
+2023-12-13,4142,Burgers,Beverage,Thika,Big Square,16
+2023-12-13,590,Ice Cream,Beverage,Ruiru,Big Square,38
+2023-12-13,1199,Chicken,Food,Roysambu,Kilimanjaro,44
+2023-12-14,3536,Tea,Beverage,Embakasi,KFC,35
+2023-12-14,210,Chips,Beverage,Embakasi,Dominos,44
+2023-12-14,305,Pizza,Beverage,Roysambu,Big Square,18
+2023-12-14,1107,Chips,Food,Kibera,Kilimanjaro,36
+2023-12-14,293,Chips,Beverage,Kibera,Java,34
+2023-12-14,3627,Sandwich,Beverage,Kibera,Steers,11
+2023-12-15,1341,Sandwich,Food,Langata,Chicken Inn,46
+2023-12-15,976,Sandwich,Food,Ruiru,Galitos,20
+2023-12-15,4469,Chicken,Beverage,Thika,Java,14
+2023-12-15,2219,Chicken,Food,Embakasi,Chicken Inn,14
+2023-12-16,2689,Burgers,Food,Thika,Dominos,45
+2023-12-16,3332,Sandwich,Beverage,Langata,Chicken Inn,47
+2023-12-17,2530,Tea,Beverage,Langata,Sanford,17
+2023-12-18,2025,Burgers,Beverage,Karen,Steers,38
+2023-12-19,765,Sandwich,Beverage,Karen,Sanford,46
+2023-12-19,594,Salad,Beverage,Thika,Java,2
+2023-12-19,2073,Pizza,Beverage,Roysambu,Java,49
+2023-12-20,2256,Coffee,Beverage,Kasarani,Java,41
+2023-12-20,1973,Chicken,Food,Kibera,Galitos,24
+2023-12-20,3088,Chicken,Beverage,Thika,Java,36
+2023-12-20,3065,Soda,Beverage,Embakasi,Artcaffe,21
+2023-12-21,4038,Salad,Beverage,Roysambu,Galitos,47
+2023-12-21,1007,Ice Cream,Beverage,Langata,Sanford,4
+2023-12-22,2105,Salad,Beverage,Kibera,Artcaffe,8
+2023-12-22,1074,Salad,Food,Kasarani,Big Square,9
+2023-12-22,2503,Sandwich,Food,Kibera,Sanford,38
+2023-12-23,3630,Chicken,Beverage,Karen,Sanford,38
+2023-12-23,3263,Sandwich,Food,Thika,Big Square,47
+2023-12-24,2569,Chips,Beverage,Embakasi,Dominos,36
+2023-12-24,4720,Coffee,Food,Buruburu,Big Square,46
+2023-12-24,3010,Coffee,Food,Westlands,Java,15
+2023-12-25,1246,Pizza,Food,Embakasi,Dominos,44
+2023-12-25,2532,Pizza,Food,Westlands,Big Square,21
+2023-12-25,1942,Coffee,Food,Embakasi,Artcaffe,25
+2023-12-26,1515,Coffee,Food,Embakasi,Big Square,33
+2023-12-26,542,Burgers,Beverage,Westlands,Kilimanjaro,31
+2023-12-26,2356,Pizza,Beverage,Roysambu,Artcaffe,42
+2023-12-27,1450,Chips,Food,Ruiru,Kilimanjaro,2
+2023-12-27,4660,Salad,Beverage,Thika,Big Square,30
+2023-12-27,1782,Tea,Beverage,Langata,Kilimanjaro,9
+2023-12-27,3882,Pizza,Beverage,Ruiru,Java,43
+2023-12-28,4224,Salad,Beverage,Kibera,Dominos,47
+2023-12-28,2804,Tea,Beverage,Thika,Steers,39
+2023-12-29,3546,Salad,Beverage,Embakasi,KFC,39
+2023-12-30,1873,Tea,Food,Westlands,Steers,18
+2023-12-30,4829,Burgers,Beverage,Embakasi,Dominos,41
+2023-12-30,1104,Burgers,Beverage,Kasarani,Chicken Inn,9
+2023-12-31,4273,Chips,Beverage,Embakasi,Chicken Inn,42
+2023-12-31,2945,Salad,Beverage,Karen,Artcaffe,20
